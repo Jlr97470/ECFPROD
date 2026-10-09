@@ -18,8 +18,8 @@
 .phpunit.result.cache
 /phpunit.xml
 ###< symfony/phpunit-bridge ###
-.env
 .env.dev
 .env.test
 .env.prod
+.env.heroku
 .env.local
